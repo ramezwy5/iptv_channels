@@ -1,0 +1,207 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="===== Christians=====" group-title="Religious",===== Christians =====
+
+#EXTINF:-1 channle-id="1" group-title="Religious",Logos Tv
+#EXTVLCOPT:network-caching=1000
+https://5d658d7e9f562.streamlock.net/logoschannel.com/logostv.smil/chunklist_w88694016_b1928000_slar_t64TG9nb3MgVFYgSEQ=.m3u8
+
+#EXTINF:-1 channle-id="2" group-title="Religious",CTV
+#EXTVLCOPT:network-caching=1000
+https://ctv.icopts.app/CTV/index.m3u8
+https://ctv.icopts.app/CTV/index.fmp4.m3u8
+
+
+#EXTINF:-1 channle-id="2" group-title="Religious",CTV USA
+#EXTVLCOPT:network-caching=1000
+https://ctv.icopts.app/ctv_USA/index.m3u8
+https://ctv.icopts.app/ctv_USA/index.fmp4.m3u8
+
+
+#EXTINF:-1 channle-id="2" group-title="Religious",CTV Australia
+#EXTVLCOPT:network-caching=1000
+https://ctv.icopts.app/ctv_Australia/index.m3u8
+https://ctv.icopts.app/ctv_Australia/index.fmp4.m3u8
+
+
+#EXTINF:-1 channle-id="3" group-title="Religious",EL-Maqar Live
+#EXTVLCOPT:network-caching=1000
+https://ctv.icopts.app/ElmaqarTVHD/index.m3u8
+
+#EXTINF:-1 channle-id="4" group-title="Religious",Aghapy Live
+#EXTVLCOPT:network-caching=1000
+https://5d658d7e9f562.streamlock.net/aghapy.tv/aghapy.smil/chunklist_w1590049843_b1400000_slar.m3u8
+
+#EXTINF:-1 channle-id="5" group-title="Religious",Csat Tv
+#EXTVLCOPT:network-caching=1000
+https://58cc65c534c67.streamlock.net/csat.tv/csat.smil/playlist.m3u8
+
+#EXTINF:-1 channle-id="6" group-title="Religious",EL-Fady Live
+#EXTVLCOPT:network-caching=1000
+https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/chunklist_w1788389492_b596000_slar_t64U0Q=.m3u8
+
+#EXTINF:-1 channle-id="7" group-title="Religious",Alhorreya tv
+#EXTVLCOPT:network-caching=1000
+https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
+
+#EXTINF:-1 channle-id="8" group-title="Religious",SAT 7 Arabic tv
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
+
+
+#EXTINF:-1 channle-id="9" group-title="Religious", AL-Karma
+#EXTVLCOPT:network-caching=1000
+https://5d12bc59c4748.streamlock.net/alkarmatv.com/alkarmaNA1.smil/chunklist_w668091990_b1628000_slar.m3u8
+
+#EXTINF:-1 channle-id="10" group-title="Religious",Kingdom Sat
+#EXTVLCOPT:network-caching=1000
+https://fastly.live.brightcove.com/6368012377112/eu-central-1/6415808954001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoibGswN2VmLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjQxNTgwODk1NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1ODA4OTU0MDAxIl0sImp0aSI6IjYzNjgwMTIzNzcxMTIifQ.4QY1PIlqxpShDJtDrGu2yb9mlRd3WEKPo83bbs_G31U/playlist-hls-dvr.m3u8
+
+#EXTINF:-1 channle-id="11" group-title="Religious",The Way
+#EXTVLCOPT:network-caching=1000
+https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
+
+#EXTINF:-1 channle-id="12" group-title="Religious", Miracle
+#EXTVLCOPT:network-caching=1000
+https://live.miracleonline.org/hls/miracle1.m3u8
+
+#EXTINF:-1 channle-id="13" group-title="Religious", Alhayat Live
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b1128000.m3u8
+
+#EXTINF:-1 channle-id="14" group-title="Religious", Elbeshara TV
+#EXTVLCOPT:network-caching=1000
+https://5b622f07944df.streamlock.net/elbesharagtv.com/gtv2/chunklist_w1775722552.m3u8
+
+#EXTINF:-1 channle-id="15" group-title="Religious", The Rock Sat
+#EXTVLCOPT:network-caching=1000
+https://5aafcc5de91f1.streamlock.net/therocksat.com/rocksat.smil/chunklist_w591282598_b1300000_t64SEQ=.m3u8
+
+
+#EXTINF:-1 channle-id="16" group-title="Religious",CYC
+#EXTVLCOPT:network-caching=1000
+https://5a8308add0b31.streamlock.net/cycnow.com/cyc.smil/playlist.m3u8
+
+#EXTINF:-1 channle-id="17" group-title="Religious",Koogi
+#EXTVLCOPT:network-caching=1000
+https://58cc65c534c67.streamlock.net/koogi.tv/koogi.smil/chunklist_w2089753795_b896000_slar_t64SEQ=.m3u8
+
+
+#EXTINF:-1 channle-id="" tvg-name="===== News=====" group-title="News",===== News =====
+
+#EXTINF:-1 tvg-id="18" tvg-name="Alarabia" group-title="===== News =====",Alarabiya
+#EXTVLCOPT:network-caching=1000
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1,alarabiya-Al7adath
+#EXTVLCOPT:network-caching=1000
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+
+#EXTINF:-1 channle-id="" tvg-name="===== Russia Today=====" group-title="News",RT
+#EXTVLCOPT:network-caching=1000
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+
+#EXTINF:-1,MBC_1
+#EXTVLCOPT:network-caching=1000
+https://d2ow8h651gs7dx.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+
+#EXTINF:-1,ِMBC2
+#EXTVLCOPT:network-caching=1000
+https://m3u.iranvids.com/mbc02/output.m3u8
+
+#EXTINF:-1 channle-id="" tvg-name="MBC-4" group-title="===== MBC=====",MBC4
+#EXTVLCOPT:network-caching=1000
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+
+#EXTINF:-1 channle-id="" tvg-name="MBCMIX" group-title="===== MBC=====",MBC-MIX
+#EXTVLCOPT:network-caching=1000
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+
+#EXTINF:-1 channle-id="" tvg-name="MBCMASR" group-title="===== MBC=====",MBC MASR
+#EXTVLCOPT:network-caching=1000
+https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+#EXTINF:-1 channle-id="" tvg-name="MBCMASR2" group-title="===== MBC=====",MBC MASR 2
+#EXTVLCOPT:network-caching=1000
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+
+#EXTINF:-1 channle-id="" tvg-name="MBCMASRUSA" group-title="===== MBC=====",MBC MASR USA
+#EXTVLCOPT:network-caching=1000
+https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+#EXTINF:-1 channle-id="" tvg-name="MBCMASRDRAMA" group-title="===== MBC=====",MBC MASR DRAMA
+#EXTVLCOPT:network-caching=1000
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
+
+#EXTINF:-1 channle-id="" tvg-name="MBC-DRAMA" group-title="===== MBC =====",MBC-DRAMA
+#EXTVLCOPT:network-caching=1000
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+
+
+#EXTINF:-1 channle-id="" tvg-name="Dubai-one" group-title="===== UAE =====",Dubai-one
+#EXTVLCOPT:network-caching=1000
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/index.m3u8
+
+
+#EXTINF:-1 channle-id="" tvg-name="beIN Sports USA" group-title="===== Sports =====",beIN Sports USA
+#EXTVLCOPT:network-caching=1000
+https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
+
+
+#EXTINF:-1 channle-id="" tvg-name="Abu Dhabi TV 1" group-title="===== UAE =====",Abu Dhabi TV 1
+#EXTVLCOPT:network-caching=1000
+https://pass.iranvids.com/https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+
+
+#EXTINF:-1 channle-id="" tvg-name="National Geographic" group-title="===== UAE =====",National Geographic
+#EXTVLCOPT:network-caching=1000
+https://m3u.iranvids.com/ng-arabic/output.m3u8
+
+
+#EXTINF:-1 channle-id="" tvg-name="ALNAHAR" group-title="===== EGYPT =====",Al-Nahar
+#EXTVLCOPT:network-caching=1000
+https://vod3.cf.dmcdn.net/sec2(PqDOOLRElyxc7IZnk52ZpXH6QfsypFc6o8ZazNRCHuKBL8gR78zCmzdmwiJP_2dEhh-9wKY5EGwKi8ezCrNaYKdeNCUakO11ihc_xcbfBTYNaesPbfaN04I3uFS6awkCQ8NBkUR6rRaWbKZBaCMHyFQrxcySZfm7viOtNr2WhdM)/video/736/472/413274637_mp4_h264_aac_hq.m3u8
+
+#EXTINF:-1 channle-id="" tvg-name="ALNAHARDRAMA" group-title="===== EGYPT =====",Al-Nahar Drama
+#EXTVLCOPT:network-caching=1000
+https://tgn.bozztv.com/gin-36bay3/ga-rotanacinema-ksa/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDI2IDQ6NTA6MDMgQU0maGFzaF92YWx1ZT1JbWtzUVhPVGl6VHBwK3k1bUxWNHZBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MzA=
+
+#EXTINF:-1 channle-id="" tvg-name="DMC" group-title="===== EGYPT =====",DMC
+#EXTVLCOPT:network-caching=1000
+https://tgn.bozztv.com/gin-36bay4/ga-dmctv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDI2IDU6NDI6NTkgQU0maGFzaF92YWx1ZT1ybk1OMjNQRitWK3FZRjNEc0gvVjJnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MTk%3D
+
+#EXTINF:-1 channle-id="" tvg-name="DMCDRAMA" group-title="===== EGYPT =====",DMC DRAMA
+#EXTVLCOPT:network-caching=1000
+https://tgn.bozztv.com/gin-36bay4/ga-dmcdramatv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDI2IDU6NDU6MDggQU0maGFzaF92YWx1ZT1pbFl0YTFrNXI3eExDeVE4SVdCb3NBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjQ%3D
+
+#EXTINF:-1 channle-id="" tvg-name="CBC-1" group-title="===== EGYPT =====", CBC-1
+#EXTVLCOPT:network-caching=1000
+https://tgn.bozztv.com/gin-36bay4/ga-cbctv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDI2IDU6NDA6NDMgQU0maGFzaF92YWx1ZT1wczNySzlKMUtBZGZnY1dSVGxFU2lRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MTk=
+
+#EXTINF:-1 channle-id="" tvg-name="cbc_drama" group-title="===== EGYPT =====",cbc_drama
+#EXTVLCOPT:network-caching=1000
+https://edge66.magictvbox.com/liveApple/CBCDrama/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 channle-id="" tvg-name="ON_LIVE" group-title="===== EGYPT =====",ON_LIVE
+#EXTVLCOPT:network-caching=1000
+https://tgn.bozztv.com/gin-36bay4/ga-on--e-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDI2IDQ6NTY6MTcgQU0maGFzaF92YWx1ZT1QRmFEcmJQYXB3TlEybnRlZnc0TDNRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
+
+#EXTINF:-1 channle-id="" tvg-name="ON_Drama" group-title="===== EGYPT =====",ON_DRAMA
+#EXTVLCOPT:network-caching=1000
+https://tgn.bozztv.com/gin-36bay4/ga-ondramatvs/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDI2IDU6MzE6MTQgQU0maGFzaF92YWx1ZT1LTXZBbC9Fb3FPalcwTUU4ZDZFQmZBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjQ=
+
+#EXTINF:-1 channel-id="" tvg-name="Panorama Network Channel" group-title="===== EGYPT =====", PNC
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
+
+#EXTINF:-1 channle-id="" tvg-name="Rotana Cinema" group-title="===== ROTANA =====",Rotana_Cinema
+#EXTVLCOPT:network-caching=1000
+https://tgn.bozztv.com/gin-36bay3/ga-rotanacinema-ksa/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDI2IDQ6NTA6MDMgQU0maGFzaF92YWx1ZT1JbWtzUVhPVGl6VHBwK3k1bUxWNHZBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MzA=
+
+#EXTINF:-1 channle-id="" tvg-name="RotanaDRAMA" group-title="===== ROTANA =====",Rotana_Drama
+#EXTVLCOPT:network-caching=1000
+https://tgn.bozztv.com/gin-36bay3/ga-rotanadrama/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDI2IDU6MTk6MDggQU0maGFzaF92YWx1ZT1qQVpGV0I0TitqRXZzcjk5emhKRW1BPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=
+
+#EXTINF:-1 channle-id="" tvg-name="Rotana Aflam" group-title="===== ROTANA =====",Rotana_Aflam
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8

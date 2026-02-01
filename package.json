@@ -1,0 +1,15 @@
+{
+  "name": "iptv-file_exetract",
+  "version": "1.0.0",
+  "description": "exetract m3u links from streaming sites",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "iptvExetract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "playwright": "^1.57.0"
+  }
+}
