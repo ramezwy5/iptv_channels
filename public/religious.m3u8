@@ -37,3 +37,23 @@ https://5aafcc5de91f1.streamlock.net/therocksat.com/rocksat.smil/chunklist_w5912
 https://5a8308add0b31.streamlock.net/cycnow.com/cyc.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",Koogi
 https://58cc65c534c67.streamlock.net/koogi.tv/koogi.smil/chunklist_w2089753795_b896000_slar_t64SEQ=.m3u8
+
+
+#EXTINF:0 tvg-id="MBC1.net" group-title="===== MBC=====",MBC_1
+https://d2ow8h651gs7dx.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== MBC=====",MBC2
+https://m3u.iranvids.com/mbc02/output.m3u8
+#EXTINF:0 tvg-id="MBC4.net" group-title="===== MBC=====",MBC4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== MBC=====",MBC-MIX
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== MBC=====",MBC MASR
+https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== MBC=====",MBC MASR 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== MBC=====",MBC MASR USA
+https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== MBC=====",MBC MASR DRAMA
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="===== MBC =====",MBC-DRAMA
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
