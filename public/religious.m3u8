@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Religious",Logos Tv
+https://5d658d7e9f562.streamlock.net/logoschannel.com/logostv.smil/chunklist_w88694016_b1928000_slar_t64TG9nb3MgVFYgSEQ=.m3u8
+#EXTINF:0 tvg-id="CFCF.ca" group-title="Religious",CTV
+https://ctv.icopts.app/CTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",CTV USA
+https://ctv.icopts.app/ctv_USA/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",CTV Australia
+https://ctv.icopts.app/ctv_Australia/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",EL-Maqar Live
+https://ctv.icopts.app/ElmaqarTVHD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",EL-Maqar Live
+https://ctv.icopts.app/ElmaqarTVHD/index.fmp4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Aghapy Live
+https://5d658d7e9f562.streamlock.net/aghapy.tv/aghapy.smil/chunklist_w1590049843_b1400000_slar.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Csat Tv
+https://58cc65c534c67.streamlock.net/csat.tv/csat.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",EL-Fady Live
+https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/chunklist_w1788389492_b596000_slar_t64U0Q=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alhorreya tv
+https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",SAT 7 Arabic tv
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",AL-Karma
+https://5d12bc59c4748.streamlock.net/alkarmatv.com/alkarmaNA1.smil/chunklist_w668091990_b1628000_slar.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Kingdom Sat
+https://fastly.live.brightcove.com/6368012377112/eu-central-1/6415808954001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoibGswN2VmLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjQxNTgwODk1NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1ODA4OTU0MDAxIl0sImp0aSI6IjYzNjgwMTIzNzcxMTIifQ.4QY1PIlqxpShDJtDrGu2yb9mlRd3WEKPo83bbs_G31U/playlist-hls-dvr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",The Way
+https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Miracle
+https://live.miracleonline.org/hls/miracle1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alhayat Live
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b1128000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Elbeshara TV
+https://5b622f07944df.streamlock.net/elbesharagtv.com/gtv2/chunklist_w1775722552.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",The Rock Sat
+https://5aafcc5de91f1.streamlock.net/therocksat.com/rocksat.smil/chunklist_w591282598_b1300000_t64SEQ=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",CYC
+https://5a8308add0b31.streamlock.net/cycnow.com/cyc.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Koogi
+https://58cc65c534c67.streamlock.net/koogi.tv/koogi.smil/chunklist_w2089753795_b896000_slar_t64SEQ=.m3u8
