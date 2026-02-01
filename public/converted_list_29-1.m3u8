@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Religious",Logos Tv
+https://5d658d7e9f562.streamlock.net/logoschannel.com/logostv.smil/chunklist_w88694016_b1928000_slar_t64TG9nb3MgVFYgSEQ=.m3u8
+#EXTINF:0 tvg-id="CFCF.ca" group-title="Religious",CTV
+https://ctv.icopts.app/CTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",CTV USA
+https://ctv.icopts.app/ctv_USA/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",CTV Australia
+https://ctv.icopts.app/ctv_Australia/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",EL-Maqar Live
+https://ctv.icopts.app/ElmaqarTVHD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",EL-Maqar Live
+https://ctv.icopts.app/ElmaqarTVHD/index.fmp4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Aghapy Live
+https://5d658d7e9f562.streamlock.net/aghapy.tv/aghapy.smil/chunklist_w1590049843_b1400000_slar.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Csat Tv
+https://58cc65c534c67.streamlock.net/csat.tv/csat.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",EL-Fady Live
+https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/chunklist_w1788389492_b596000_slar_t64U0Q=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alhorreya tv
+https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",SAT 7 Arabic tv
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",AL-Karma
+https://5d12bc59c4748.streamlock.net/alkarmatv.com/alkarmaNA1.smil/chunklist_w668091990_b1628000_slar.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Kingdom Sat
+https://fastly.live.brightcove.com/6368012377112/eu-central-1/6415808954001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoibGswN2VmLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjQxNTgwODk1NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1ODA4OTU0MDAxIl0sImp0aSI6IjYzNjgwMTIzNzcxMTIifQ.4QY1PIlqxpShDJtDrGu2yb9mlRd3WEKPo83bbs_G31U/playlist-hls-dvr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",The Way
+https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Miracle
+https://live.miracleonline.org/hls/miracle1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alhayat Live
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b1128000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Elbeshara TV
+https://5b622f07944df.streamlock.net/elbesharagtv.com/gtv2/chunklist_w1775722552.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",The Rock Sat
+https://5aafcc5de91f1.streamlock.net/therocksat.com/rocksat.smil/chunklist_w591282598_b1300000_t64SEQ=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",CYC
+https://5a8308add0b31.streamlock.net/cycnow.com/cyc.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Koogi
+https://58cc65c534c67.streamlock.net/koogi.tv/koogi.smil/chunklist_w2089753795_b896000_slar_t64SEQ=.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="===== News =====",Alarabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== News =====",alarabiya-Al7adath
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:0 tvg-id="RussiaToday.uk" group-title="===== News =====",RT
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+
+#EXTINF:0 tvg-id="MBC1.net" group-title="===== MBC=====",MBC_1
+https://d2ow8h651gs7dx.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== MBC=====",MBC2
+https://m3u.iranvids.com/mbc02/output.m3u8
+#EXTINF:0 tvg-id="MBC4.net" group-title="===== MBC=====",MBC4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== MBC=====",MBC-MIX
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== MBC=====",MBC MASR
+https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== MBC=====",MBC MASR 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== MBC=====",MBC MASR USA
+https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== MBC=====",MBC MASR DRAMA
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="===== MBC =====",MBC-DRAMA
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="===== UAE =====",Dubai-one
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== UAE =====",Abu Dhabi TV 1
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8
+#EXTINF:0 tvg-id="NatGeo.uk" group-title="===== UAE =====",National Geographic
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
+
+#EXTINF:0 tvg-id="FIFA+" group-title="===== Sports =====",FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="===== EGYPT =====",Al-Nahar
+https://tgn.bozztv.com/gin-36bay4/ga-al-nahardrama/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI2IDM6MDY6MzQgQU0maGFzaF92YWx1ZT1KM2d1VmJLOVdkV1M3U1RHZ1lvMzJBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49Mjc%3D
+#EXTINF:0 tvg-id="ext" group-title="===== EGYPT =====",Al-Nahar Drama
+https://tgn.bozztv.com/gin-36bay4/ga-al-nahardrama/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI2IDM6MTY6NTIgQU0maGFzaF92YWx1ZT1ZdGhOYmVsWlVSVDRGS3I2bmsyZytnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49Mjc%3D
+#EXTINF:0 tvg-id="ext" group-title="===== EGYPT =====",DMC
+https://www.yallatv.online/hls_lbn?url=https%3A%2F%2Fsamaflix.com%3A12103%2Fchannel83%2Findex.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== EGYPT =====",DMC
+https://tgn.bozztv.com/gin-36bay4/ga-dmctv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI2IDI6NTg6MzIgQU0maGFzaF92YWx1ZT04L2VXckc0MGIrbHdHdUZvVEhaZEVBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MTk%3D
+#EXTINF:0 tvg-id="ext" group-title="===== EGYPT =====",DMC DRAMA
+https://tgn.bozztv.com/gin-36bay4/ga-dmcdramatv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI2IDI6NTk6NDIgQU0maGFzaF92YWx1ZT14TC9URWRQdWh6TWhVZHF1ZlVoTUNRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjQ%3D
+#EXTINF:0 tvg-id="ext" group-title="===== EGYPT =====",DMC DRAMA
+https://www.web24iptv.online/hls_lbn?url=https%3A%2F%2Fsamaflix.com%3A12103%2Fchannel81%2Findex.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== EGYPT =====",CBC-1
+https://tgn.bozztv.com/gin-36bay4/ga-cbctv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDI2IDM6Mjg6MTYgQU0maGFzaF92YWx1ZT1zUFMrbWE4RGFRT3A3aDhYdGY2bWZ3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MTk=
+#EXTINF:0 tvg-id="ext" group-title="===== EGYPT =====",CBC-1
+https://www.yallatv.online/hls_lbn?url=https%3A%2F%2Fsamaflix.com%3A12103%2Fchannel138%2Findex.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== EGYPT =====",CBC-1
+https://www.web24iptv.online/hls_lbn?url=https%3A%2F%2Fsamaflix.com%3A12103%2Fchannel138%2Findex.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== EGYPT =====",cbc_drama
+https://tgn.bozztv.com/gin-36bay4/ga-cbcdramatv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDI2IDQ6MTQ6MTcgQU0maGFzaF92YWx1ZT04UnBvWG1PeE1yT3NUejZmUUtPZXJ3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjQ=
+#EXTINF:0 tvg-id="ext" group-title="===== EGYPT =====",ON_LIVE
+https://www.web24iptv.online/hls_lbn?url=https%3A%2F%2Fsamaflix.com%3A12103%2Fchannel161%2Findex.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== EGYPT =====",ON_LIVE
+https://www.yallatv.online/hls_lbn?url=https%3A%2F%2Fsamaflix.com%3A12103%2Fchannel161%2Findex.m3u8
+#EXTINF:0 tvg-id="ext" group-title="===== EGYPT =====",ON_LIVE
+https://tgn.bozztv.com/gin-36bay4/ga-on--e-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI2IDM6MDI6MTMgQU0maGFzaF92YWx1ZT05azlNbCtJYlJnd1dQUGpIelp0SnBRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI%3D
+#EXTINF:0 tvg-id="ext" group-title="===== EGYPT =====",ON_DRAMA
+https://tgn.bozztv.com/gin-36bay4/ga-ondramatvs/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDI2IDM6NDQ6NTQgQU0maGFzaF92YWx1ZT1UdDdaWHgySkxXZXcwQXh0TXVFem53PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjQ=
+#EXTINF:0 tvg-id="ext" group-title="===== EGYPT =====",PNC
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
+
+#EXTINF:0 tvg-id="RotanaCinema.il" group-title="===== ROTANA =====",Rotana_Cinema
+https://tgn.bozztv.com/gin-36bay3/ga-rotanacinema-ksa/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI2IDM6MTk6NTQgQU0maGFzaF92YWx1ZT1sUENMNVIrZjZ1UjJxWHlvZWhkc3dRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MzA%3D
+#EXTINF:0 tvg-id="ext" group-title="===== ROTANA =====",Rotana_Drama
+https://tgn.bozztv.com/gin-36bay3/ga-rotanadrama/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI2IDM6MjA6NDkgQU0maGFzaF92YWx1ZT1LMGgwanpWczloRksxazRYRFJ2Q3NnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU%3D
+#EXTINF:0 tvg-id="ext" group-title="===== ROTANA =====",Rotana_Aflam
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
