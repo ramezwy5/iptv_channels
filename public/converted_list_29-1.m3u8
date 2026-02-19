@@ -15,10 +15,9 @@ https://ctv.icopts.app/ElmaqarTVHD/index.fmp4.m3u8
 https://5d658d7e9f562.streamlock.net/aghapy.tv/aghapy.smil/chunklist_w1590049843_b1400000_slar.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",Csat Tv
 https://58cc65c534c67.streamlock.net/csat.tv/csat.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Religious",EL-Fady Live
-https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/chunklist_w1788389492_b596000_slar_t64U0Q=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",Alhorreya tv
 https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
+http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",SAT 7 Arabic tv
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",AL-Karma
@@ -113,3 +112,7 @@ https://tgn.bozztv.com/gin-36bay3/ga-rotanacinema-ksa/index.m3u8?wmsAuthSign=c2V
 https://tgn.bozztv.com/gin-36bay3/ga-rotanadrama/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI2IDM6MjA6NDkgQU0maGFzaF92YWx1ZT1LMGgwanpWczloRksxazRYRFJ2Q3NnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU%3D
 #EXTINF:0 tvg-id="ext" group-title="===== ROTANA =====",Rotana_Aflam
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="===== RAMADAN26 =====",RAMADAN 26
+#EXTINF:0 tvg-id="ext" group-title="===== RAMADAN26 =====",DARSH_1
+https://vid5.rma-2026-zvde-dsn-05.site/Darsh/01.mp4
