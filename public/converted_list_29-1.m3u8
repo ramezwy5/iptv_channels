@@ -115,17 +115,17 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:0 tvg-id="ext" group-title="===== RAMADAN26 =====",RAMADAN 26
 
-EXTINF:-1 tvg-id="ext" group-title="===== El-King =====",el-king ep1
-https://vid2.rma-2026-zvde-dsn-05.site/El-King/01.mp4
-EXTINF:-1 tvg-id="ext" group-title="===== El-King =====",el-king ep2
-https://vid5.rma-2026-zvde-dsn-05.site/El-King/02.mp4
-EXTINF:-1 tvg-id="ext" group-title="===== El-King =====",el-king ep3
-https://vid2.rma-2026-zvde-dsn-05.site/El-King/03.mp4
-EXTINF:-1 tvg-id="ext" group-title="===== El-King =====",el-king ep4
-https://vid5.rma-2026-zvde-dsn-05.site/El-King/04.mp4
-EXTINF:-1 tvg-id="ext" group-title="===== El-King =====",el-king ep5
+#EXTINF:-1 tvg-id="ext" group-title="EL-King",el-king ep1
+https://vid4.rma-2026-zvde-dsn-05.site/El-King/01.mp4
+#EXTINF:-1 tvg-id="ext" group-title="EL-King",el-king ep2
+https://vid1.rma-2026-zvde-dsn-05.site/El-King/02.mp4
+#EXTINF:-1 tvg-id="ext" group-title="EL-King",el-king ep3
+https://vid3.rma-2026-zvde-dsn-05.site/El-King/03.mp4
+#EXTINF:-1 tvg-id="ext" group-title="EL-King",el-king ep4
+https://vid2.rma-2026-zvde-dsn-05.site/El-King/04.mp4
+#EXTINF:-1 tvg-id="ext" group-title="EL-King",el-king ep5
 https://vid1.rma-2026-zvde-dsn-05.site/El-King/05.mp4
-EXTINF:-1 tvg-id="ext" group-title="===== El-King =====",el-king ep6
-https://vid4.rma-2026-zvde-dsn-05.site/El-King/06.mp4
-EXTINF:-1 tvg-id="ext" group-title="===== El-King =====",el-king ep7
-https://vid5.rma-2026-zvde-dsn-05.site/El-King/07.mp4
+#EXTINF:-1 tvg-id="ext" group-title="EL-King",el-king ep6
+https://vid2.rma-2026-zvde-dsn-05.site/El-King/06.mp4
+#EXTINF:-1 tvg-id="ext" group-title="EL-King",el-king ep7
+https://vid4.rma-2026-zvde-dsn-05.site/El-King/07.mp4
