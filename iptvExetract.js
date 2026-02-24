@@ -1,22 +1,34 @@
-const { chromium } = require('playwright');
+import  puppeteer from 'puppeteer';
+import fs from 'node:fs';
 
 (async () => {
-  const browser = await chromium.launch({ headless: false });
-  const context = await browser.newContext();
-  const page = await context.newPage();
-
+  const browser = await puppeteer.launch({ 
+    headless: false,
+    defaultViewport: false,
+    userDataDir: "./tmp", 
+  });
+  const page = await browser.newPage();
+  let link = []
   page.on('request', request => {
     const url = request.url();
     if (url.includes('.m3u8')) {
       console.log('Found m3u8:', url);
+      link.push(url)
     }
   });
-  await page.goto('http://azrogo.com/iphone/arabic/ch5/cbcdramatv.php', {
-    waitUntil: 'networkidle'
+  await page.goto('https://www.parsatv.com/name=Biz-Cinema#movie', {
+    waitUntil: 'networkidle2', timeout: 60000
   });
-
+  const jsonFile = JSON.stringify(link);
   console.log('Waiting for stream...');
-  await page.waitForTimeout(60000);
+  
+    fs.access('./links.json', fs.constants.F_OK,()=>{
+      if(true){
+        fs.appendFileSync('./links.json', jsonFile)
+      }
+    })
+    // fs.writeFileSync('./links.json', link)
+
 
   await browser.close();
 })();
