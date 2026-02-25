@@ -1,3 +1,4 @@
-2026/02/24-13:48:55.783 1a24 Reusing MANIFEST D:\projects\iptv_channels\iptv_italy\tmp\Default\Local Storage\leveldb/MANIFEST-000001
-2026/02/24-13:48:55.809 1a24 Recovering log #3
-2026/02/24-13:48:55.824 1a24 Reusing old log D:\projects\iptv_channels\iptv_italy\tmp\Default\Local Storage\leveldb/000003.log 
+2026/02/24-20:18:36.104 570 Reusing MANIFEST D:\projects\iptv_channels\iptv_italy\tmp\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/24-20:18:36.117 570 Recovering log #7
+2026/02/24-20:18:36.117 570 (ignoring error) D:\projects\iptv_channels\iptv_italy\tmp\Default\Local Storage\leveldb/000007.log: dropping 12276 bytes; Corruption: checksum mismatch
+2026/02/24-20:18:36.140 570 Reusing old log D:\projects\iptv_channels\iptv_italy\tmp\Default\Local Storage\leveldb/000007.log 
