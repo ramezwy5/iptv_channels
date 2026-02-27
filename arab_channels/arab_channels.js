@@ -21,7 +21,7 @@ function showsJson(path, list){
     userDataDir: "./tmp", 
   });
   const page = await browser.newPage();
-  const it_url = 'http://dagav.com/v/arabic/arab5.php';
+  const it_url = 'http://dagav.com/v/arabic/';
   const channels_list = []
   await page.goto(it_url, {waitUntil: 'networkidle2', timeout: 60000});
   const videoLinkBar = await page.$$('.ChannelTV');

@@ -1,3 +1,3 @@
-2026/02/27-14:59:32.545 3704 Reusing MANIFEST D:\projects\iptv_channels\arab_channels\tmp\Default\Sync Data\LevelDB/MANIFEST-000001
-2026/02/27-14:59:34.055 3704 Recovering log #3
-2026/02/27-14:59:34.082 3704 Reusing old log D:\projects\iptv_channels\arab_channels\tmp\Default\Sync Data\LevelDB/000003.log 
+2026/02/27-15:00:00.225 1014 Reusing MANIFEST D:\projects\iptv_channels\arab_channels\tmp\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/02/27-15:00:00.382 1014 Recovering log #3
+2026/02/27-15:00:00.448 1014 Reusing old log D:\projects\iptv_channels\arab_channels\tmp\Default\Sync Data\LevelDB/000003.log 
