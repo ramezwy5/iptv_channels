@@ -107,8 +107,9 @@ https://tgn.bozztv.com/gin-36bay4/ga-ondramatvs/index.m3u8?wmsAuthSign=c2VydmVyX
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
 
 #EXTINF:0 tvg-id="RotanaCinema.il" group-title="===== ROTANA =====",Rotana_Cinema
-https://tgn.bozztv.com/gin-36bay3/ga-rotanacinema-ksa/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI2IDM6MTk6NTQgQU0maGFzaF92YWx1ZT1sUENMNVIrZjZ1UjJxWHlvZWhkc3dRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MzA%3D
+https://tgn.bozztv.com/gin-36bay3/ga-rotanacinema-egypt/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDI2IDExOjM1OjI1IFBNJmhhc2hfdmFsdWU9QnV6ZUFJN3NyS3VJZmNnaVRwZWxGUT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTMy
 #EXTINF:0 tvg-id="ext" group-title="===== ROTANA =====",Rotana_Drama
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 https://tgn.bozztv.com/gin-36bay3/ga-rotanadrama/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI2IDM6MjA6NDkgQU0maGFzaF92YWx1ZT1LMGgwanpWczloRksxazRYRFJ2Q3NnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU%3D
 #EXTINF:0 tvg-id="ext" group-title="===== ROTANA =====",Rotana_Aflam
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=0PRJnP3xh_q
