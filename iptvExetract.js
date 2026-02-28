@@ -16,7 +16,7 @@ import fs from 'node:fs';
       link.push(url)
     }
   });
-  await page.goto('https://www.parsatv.com/name=Biz-Cinema#movie', {
+  await page.goto('http://azrogo.com/ff41521f-e070-4e11-89ef-e40885d1ad87', {
     waitUntil: 'networkidle2', timeout: 60000
   });
   const jsonFile = JSON.stringify(link);
