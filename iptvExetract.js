@@ -16,12 +16,12 @@ import fs from 'node:fs';
       link.push(url)
     }
   });
-  await page.goto('http://azrogo.com/ff41521f-e070-4e11-89ef-e40885d1ad87', {
+  await page.goto('http://azrogo.com/iphone/arabic/ch5/aloula_masriyah.php', {
     waitUntil: 'networkidle2', timeout: 60000
   });
   const jsonFile = JSON.stringify(link);
   console.log('Waiting for stream...');
-  
+    // check file existing before append or create new file
     fs.access('./links.json', fs.constants.F_OK,()=>{
       if(true){
         fs.appendFileSync('./links.json', jsonFile)
