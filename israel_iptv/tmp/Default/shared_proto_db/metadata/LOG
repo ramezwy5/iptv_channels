@@ -1,2 +1,3 @@
-2026/03/02-22:50:44.988 2648 Creating DB D:\projects\iptv_channels\israel_iptv\tmp\Default\shared_proto_db\metadata since it was missing.
-2026/03/02-22:50:45.199 2648 Reusing MANIFEST D:\projects\iptv_channels\israel_iptv\tmp\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/03/02-22:55:15.266 217c Reusing MANIFEST D:\projects\iptv_channels\israel_iptv\tmp\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/03/02-22:55:15.286 217c Recovering log #3
+2026/03/02-22:55:15.295 217c Reusing old log D:\projects\iptv_channels\israel_iptv\tmp\Default\shared_proto_db\metadata/000003.log 

@@ -53,7 +53,7 @@ function showsJson(path, list){
       fs.writeFileSync('names.text',m3uNameList.join("\n"))
       console.log('saved raw links to names.text file')
 //file structure
-  const fileStructure = ["#EXTM3U",...m3uVideoList.map((link, i)=>`#EXTINF:-1 tvg-id="ext" group-title="ISRAEL,${m3uNameList[i]} \n ${link}`)].join("\n")
+  const fileStructure = ["#EXTM3U",...m3uVideoList.map((link, i)=>`#EXTINF:-1 tvg-id="ext" group-title="ISRAEL",${m3uNameList[i]} \n ${link}`)].join("\n")
 
 //write m3u8 file
   fs.writeFileSync('./israel_channels.m3u8', fileStructure)
