@@ -1,0 +1,69 @@
+import fs from 'node:fs';
+import puppeteer from 'puppeteer';
+/*
+function showsJson(path, list){
+  const fixError = (error)=>{
+    if(error){
+      console.error(error)
+      return;
+    }
+  }
+  const jsonFile = JSON.stringify(list);
+  fs.writeFileSync(path, jsonFile, fixError)
+}
+*/
+
+(async ()=>{
+  let channel_name = [];
+  const browser = await puppeteer.launch({ 
+    headless: false,
+    defaultViewport: false,
+    userDataDir: "./tmp", 
+  });
+  const page = await browser.newPage();
+  const news_url = 'https://famelack.com/top-news';
+  const channels_list = []
+  await page.goto(news_url, {waitUntil: 'networkidle2', timeout: 60000});
+  const videoLinkBar = await page.$$('.sidebar-entry');
+  
+
+  //loop the elements
+  for(const bar of videoLinkBar){
+    let videoUrl;
+    let channelName;
+    try {
+        videoUrl = await page.evaluate((el)=>el.querySelector('.video-link').getAttribute("data-video-url"),bar)
+    } catch (error) {
+        console.error(error)
+    }
+    try {
+        channelName = await page.evaluate((el)=>el.querySelector('.channel-name-container').innerText,bar)
+    } catch (error) {
+        console.error(error)
+    }
+    channels_list.push(videoUrl);
+    channel_name.push(channelName)
+  }
+  const m3uVideoList = [...channels_list];
+  const m3uNameList = [...channel_name];
+
+  //save raw links
+      fs.writeFileSync('links.text',m3uVideoList.join("\n"))
+      console.log('saved raw links to links.text file')
+      fs.writeFileSync('names.text',m3uNameList.join("\n"))
+      console.log('saved raw links to names.text file')
+//file structure
+  const fileStructure = [...m3uVideoList.map((link, i)=>`#EXTINF:-1 tvg-id="ext" group-title="NEWS",${m3uNameList[i]} \n ${link}`)].join("\n")
+
+//write m3u8 file
+  fs.writeFileSync('./news_channels.m3u8', fileStructure)
+
+
+
+
+
+
+
+
+  await browser.close();
+})();

@@ -51,6 +51,20 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:0 tvg-id="RussiaToday.uk" group-title="===== News =====",RT
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="NEWS",Al Jazeera English 
+ https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="NEWS",CGTN 
+ https://dash4.antik.sk/live/test_cgtn/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="NEWS",DW English 
+ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="NEWS",RT News 
+ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="NEWS",Scripps News 
+ https://pb-syzbb4sicfx4g.akamaized.net/ScrippsNews_US.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="NEWS",Scripps News 
+ https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="NEWS",TRT World 
+ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="ITALY",Italy
 #EXTINF:-1 tvg-id="ext" group-title="ITALY",7 RadioVisione 
