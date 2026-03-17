@@ -1,1 +1,231 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" group-title="egypt",0
+0&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&eb=http%3A%2F%2Fazrogo.com
+#EXTINF:-1 tvg-id="ext" group-title="egypt",1
+1jjsuqjpn003e95ded2_VMAP_0_0&cidx=0&sidx=0&vidIdx=0&omp=Dailymotion%2F1.0&omn=0&imal=1&3pcb=0&rap=1&apo=monetization&pos=1&pdm=regular&pbm=2
+#EXTINF:-1 tvg-id="ext" group-title="egypt",2
+https://cdndirector.dailymotion.com/cdn/live/video/x856hbh.m3u8?sec=T20ieYQRKrk1rxN3kUrPIIbFyIlhvMgvjpu41omOxXy8RB4pd8AYDMV0YNnif39FASeix-5Zgv7r044WVle5a96ks35ZYD3QHwJnbOxOkwdRBlZSue2nG11se8bSdOEL&dmTs=682971&dmV1st=cd48efc0-24cf-43e8-94db-ea607f4332cd
+#EXTINF:-1 tvg-id="ext" group-title="egypt",3
+https://live.eu-north-1b.cf.dmcdn.net/sec2(s6wk5cYRI484BQ_k4oJHySXQMQmsCbaOjqgFZAHQb1Kek7GyeQ6bxnd2gvn9ZFrNmzrTg45jqf-PTrVgqn7I0DdXlIn361jIvAbIMGZ9wwlmQeYbZ3XyAX64QmtqkZ5X)/dm/3/x856hbh/s/live-480.m3u8#cell=lcf-eu-north-1b
+#EXTINF:-1 tvg-id="ext" group-title="egypt",4
+https://live.eu-north-1b.cf.dmcdn.net/sec2(s6wk5cYRI484BQ_k4oJHySXQMQmsCbaOjqgFZAHQb1Kek7GyeQ6bxnd2gvn9ZFrNmzrTg45jqf-PTrVgqn7I0DdXlIn361jIvAbIMGZ9wwlmQeYbZ3XyAX64QmtqkZ5X)/dm/3/x856hbh/s/live-720.m3u8#cell=lcf-eu-north-1b
+#EXTINF:-1 tvg-id="ext" group-title="egypt",5
+1jjsuqr1503e223ceb4_VMAP_0_0&cidx=0&sidx=0&vidIdx=0&omp=Dailymotion%2F1.0&omn=0&imal=1&3pcb=0&rap=1&apo=monetization&pos=1&pdm=regular&pbm=2
+#EXTINF:-1 tvg-id="ext" group-title="egypt",6
+https://cdndirector.dailymotion.com/cdn/live/video/x84nun4.m3u8?sec=EM9WpNAK37dae0He_of8NsZII-ukkSDJbMHVcYGdhPst7NG2BDHcP0eeckYTqIAIRNg_zmHXScLL1zxiR_1HmKdh8HLrr6j4ERiLEQuv9hG7xTxtyCnXgyj38h8a0ykB&dmTs=682971&dmV1st=cd48efc0-24cf-43e8-94db-ea607f4332cd
+#EXTINF:-1 tvg-id="ext" group-title="egypt",7
+https://live.eu-north-1b.cf.dmcdn.net/sec2(WzIwKscgytgX1GSh0OI1ShyweCO9s72jAlH8O5WWLw1hwiuVNCOicETO3Jjt_d-7DAVoC4x6TW5l52yf-XoZOKMiOJ2THUDEePEOzessrxE4ONHqTDUZDHVFDuDpx8lj)/dm/3/x84nun4/s/live-480.m3u8#cell=lcf-eu-north-1b
+#EXTINF:-1 tvg-id="ext" group-title="egypt",8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(WzIwKscgytgX1GSh0OI1ShyweCO9s72jAlH8O5WWLw1hwiuVNCOicETO3Jjt_d-7DAVoC4x6TW5l52yf-XoZOKMiOJ2THUDEePEOzessrxE4ONHqTDUZDHVFDuDpx8lj)/dm/3/x84nun4/s/live-720.m3u8#cell=lcf-eu-north-1b
+#EXTINF:-1 tvg-id="ext" group-title="egypt",9
+https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",10
+https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/stream_t4aa8704de80f848d732d72dd4b37aa3c_r1486480159.m3u8?llhlsHBs=0.5
+#EXTINF:-1 tvg-id="ext" group-title="egypt",11
+https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/stream_t42e5e5e708a0e3f05bf7d3e119110fa0_r1486480154.m3u8?llhlsHBs=0.5
+#EXTINF:-1 tvg-id="ext" group-title="egypt",12
+https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/stream_t42e5e5e708a0e3f05bf7d3e119110fa0_r1486480156.m3u8?llhlsHBs=0.5
+#EXTINF:-1 tvg-id="ext" group-title="egypt",13
+Plyr3&drm=0&ff=700&fsm=0&l=0&mk=hls&mu=https%3A%2F%2Fcustomer-9vqui33qma2rownb.cloudflarestream.com%2F7792e558fe54e23bdd4b462ec275cdba%2Fmanifest%2Fvideo.m3u8&pcp=0&pd=2&pdr=&plng=fr&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=2149&sp=0&strt=710&tb=2&tt=0&vd=0&vh=480&vs=5&vw=854&sa=1773719617926
+#EXTINF:-1 tvg-id="ext" group-title="egypt",14
+https://tgn.bozztv.com/gin-36bay4/ga-cbcdramatv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTM6NDUgQU0maGFzaF92YWx1ZT1WZ3p6QytGbVlFdHRKVmZ3bGhEbFdBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjQ=
+#EXTINF:-1 tvg-id="ext" group-title="egypt",15
+Plyr3&drm=0&ff=770&fsm=0&l=0&lng=en&mk=hls&mu=https%3A%2F%2Ftgn.bozztv.com%2Fgin-36bay4%2Fga-cbcdramatv%2Findex.m3u8%3FwmsAuthSign%3Dc2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTM6NDUgQU0maGFzaF92YWx1ZT1WZ3p6QytGbVlFdHRKVmZ3bGhEbFdBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjQ%3D&pcp=0&pd=2&pdt=2026-03-17T03%3A53%3A36.443Z&plng=en&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=980&sp=0&strt=780&tb=6.3&tt=0&vd=0&vh=576&vs=0&vw=1024&sa=1773719627032
+#EXTINF:-1 tvg-id="ext" group-title="egypt",16
+1jjsurm7a1d8d6d46db_VMAP_0_0&cidx=0&sidx=0&vidIdx=0&omp=Dailymotion%2F1.0&omn=0&imal=1&3pcb=0&rap=1&apo=monetization&pos=1&pdm=regular&pbm=2
+#EXTINF:-1 tvg-id="ext" group-title="egypt",17
+https://cdndirector.dailymotion.com/cdn/live/video/x84nun4.m3u8?sec=XrkCj64S_ZsvFfYriD24dcxx9QyJZ_NqD7RDCJFx2ihAiKt9RMBchpAfRTDm08frVwhUcGvmh7q0wUyV8LV3CAC7-FZPoORYKCNn0aok4FM&dmV1st=cd48efc0-24cf-43e8-94db-ea607f4332cd&dmTs=682971
+#EXTINF:-1 tvg-id="ext" group-title="egypt",18
+https://live.eu-north-1b.cf.dmcdn.net/sec2(UtzkNPBXTvfSpaeyNugnwiiRL6dZ8PPcNCkXaUbaETDV7Jsso75PskVw0u856fXnuuK8QMHlA8mZGiiGza78bD7zSj-O6iuf9J37FuyPRApCHXNfIHtBhsviAvaVjtiy)/dm/3/x84nun4/s/live-480.m3u8#cell=lcf-eu-north-1b
+#EXTINF:-1 tvg-id="ext" group-title="egypt",19
+https://live.eu-north-1b.cf.dmcdn.net/sec2(UtzkNPBXTvfSpaeyNugnwiiRL6dZ8PPcNCkXaUbaETDV7Jsso75PskVw0u856fXnuuK8QMHlA8mZGiiGza78bD7zSj-O6iuf9J37FuyPRApCHXNfIHtBhsviAvaVjtiy)/dm/3/x84nun4/s/live-720.m3u8#cell=lcf-eu-north-1b
+#EXTINF:-1 tvg-id="ext" group-title="egypt",20
+1jjsurprn3fcb3157b2_VMAP_0_0&cidx=0&sidx=0&vidIdx=0&omp=Dailymotion%2F1.0&omn=0&imal=1&3pcb=0&rap=1&apo=monetization&pos=1&pdm=regular&pbm=2
+#EXTINF:-1 tvg-id="ext" group-title="egypt",21
+https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",22
+https://jmc-live.ercdn.net/altaghier/altaghier_1080p.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",23
+http://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",24
+http://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",25
+Plyr3&drm=0&ff=1120&fsm=0&l=0&mk=hls&mu=http%3A%2F%2Fmn-nl.mncdn.com%2Felsharq_live%2Flive%2Fplaylist.m3u8&pcp=0&pd=2&pdr=&plng=fr&pni=0&pr=2&q=0&sp=0&strt=1120&tb=10&tt=0&vd=0&vs=0&sa=1773719654267
+#EXTINF:-1 tvg-id="ext" group-title="egypt",26
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",27
+-LIPTaXVD0yiKWmO-nr7CA
+#EXTINF:-1 tvg-id="ext" group-title="egypt",28
+-LIPTaXVD0yiKWmO-nr7CA&bvr_flags=1&bvr_ch=alghadtv&bvr_bw=2500000
+#EXTINF:-1 tvg-id="ext" group-title="egypt",29
+https://alfat7-q.com:5443/LiveApp/streams/986613792230697141226562.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",30
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+#EXTINF:-1 tvg-id="ext" group-title="egypt",31
+https://tgn.bozztv.com/gin-36bay4/ga-alhayah-series/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTQ6MjYgQU0maGFzaF92YWx1ZT15Z1dYMFpBY0ova0Q3aXlydTFQdHBRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49Mjg=
+#EXTINF:-1 tvg-id="ext" group-title="egypt",32
+Plyr3&drm=0&ff=340&fsm=0&l=0&lng=en&mk=hls&mu=https%3A%2F%2Ftgn.bozztv.com%2Fgin-36bay4%2Fga-alhayah-series%2Findex.m3u8%3FwmsAuthSign%3Dc2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTQ6MjYgQU0maGFzaF92YWx1ZT15Z1dYMFpBY0ova0Q3aXlydTFQdHBRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49Mjg%3D&pcp=0&pd=2&pdt=2026-03-17T03%3A54%3A01.450Z&plng=en&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=970&sp=0&strt=340&tb=5.7&tt=0&vd=0&vh=576&vs=0&vw=1024&sa=1773719666974
+#EXTINF:-1 tvg-id="ext" group-title="egypt",33
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8?=&=&=&=&=1018&=450&=&=&=&=4e834833-36da-0f04-8c84-fbbf35839270&=idfa
+#EXTINF:-1 tvg-id="ext" group-title="egypt",34
+https://tgn.bozztv.com/gin-36bay3/ga-rotanakhalija-gulf/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTQ6MzUgQU0maGFzaF92YWx1ZT1OUnpLc3ZkOHBySStqSnRUMTBPR2pnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MzI=
+#EXTINF:-1 tvg-id="ext" group-title="egypt",35
+Plyr3&drm=0&ff=530&fsm=0&l=0&lng=en&mk=hls&mu=https%3A%2F%2Ftgn.bozztv.com%2Fgin-36bay3%2Fga-rotanakhalija-gulf%2Findex.m3u8%3FwmsAuthSign%3Dc2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTQ6MzUgQU0maGFzaF92YWx1ZT1OUnpLc3ZkOHBySStqSnRUMTBPR2pnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MzI%3D&pcp=0&pd=2&pdt=2026-03-17T03%3A54%3A19.929Z&plng=en&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=990&sp=0&strt=530&tb=7.2&tt=0&vd=0&vh=576&vs=0&vw=1024&sa=1773719676030
+#EXTINF:-1 tvg-id="ext" group-title="egypt",36
+https://tgn.bozztv.com/gin-36bay3/ga-rotanacomedy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTQ6MzcgQU0maGFzaF92YWx1ZT0veTFoaTRyT3NtOUVDQy9RRDFxZ293PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjY=
+#EXTINF:-1 tvg-id="ext" group-title="egypt",37
+Plyr3&drm=0&ff=500&fsm=0&l=0&lng=en&mk=hls&mu=https%3A%2F%2Ftgn.bozztv.com%2Fgin-36bay3%2Fga-rotanacomedy%2Findex.m3u8%3FwmsAuthSign%3Dc2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTQ6MzcgQU0maGFzaF92YWx1ZT0veTFoaTRyT3NtOUVDQy9RRDFxZ293PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjY%3D&pcp=0&pd=2&pdt=2026-03-17T03%3A54%3A32.017Z&plng=en&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=1810&sp=0&strt=500&tb=5&tt=0&vd=0&vh=576&vs=0&vw=1024&sa=1773719678366
+#EXTINF:-1 tvg-id="ext" group-title="egypt",38
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8?=&=&=&=&=1018&=450&=&=&=&=4e834833-36da-0f04-8c84-fbbf35839270&=idfa
+#EXTINF:-1 tvg-id="ext" group-title="egypt",39
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?token=demo
+#EXTINF:-1 tvg-id="ext" group-title="egypt",40
+https://tgn.bozztv.com/gin-36bay3/ga-rotanacinema-egypt/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTQ6NDMgQU0maGFzaF92YWx1ZT10bk8vVU96Y0xqOU03OFhTQzlldktRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MzI=
+#EXTINF:-1 tvg-id="ext" group-title="egypt",41
+https://tgn.bozztv.com/gin-36bay3/ga-rotanacinema-ksa/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTQ6NDQgQU0maGFzaF92YWx1ZT1RNVljWTUzVHJnZDk1aWJZWmo4TWN3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MzA=
+#EXTINF:-1 tvg-id="ext" group-title="egypt",42
+Plyr3&drm=0&ff=1110&fsm=0&l=0&lng=en&mk=hls&mu=https%3A%2F%2Ftgn.bozztv.com%2Fgin-36bay3%2Fga-rotanacinema-egypt%2Findex.m3u8%3FwmsAuthSign%3Dc2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTQ6NDMgQU0maGFzaF92YWx1ZT10bk8vVU96Y0xqOU03OFhTQzlldktRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MzI%3D&pcp=0&pd=2&plng=en&pni=0&pr=2&q=0&sp=0&strt=1110&tb=40&tt=0&vd=0&vs=0&sa=1773719684573
+#EXTINF:-1 tvg-id="ext" group-title="egypt",43
+Plyr3&drm=0&ff=580&fsm=0&l=0&lng=en&mk=hls&mu=https%3A%2F%2Ftgn.bozztv.com%2Fgin-36bay3%2Fga-rotanacinema-ksa%2Findex.m3u8%3FwmsAuthSign%3Dc2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTQ6NDQgQU0maGFzaF92YWx1ZT1RNVljWTUzVHJnZDk1aWJZWmo4TWN3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MzA%3D&pcp=0&pd=2&pdt=2026-03-17T03%3A54%3A34.924Z&plng=en&pni=0&pr=2&q=0&sp=0&strt=590&tb=6.3&tt=0&vd=0&vs=0&sa=1773719684623
+#EXTINF:-1 tvg-id="ext" group-title="egypt",44
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/c77b11dd-e9a2-4746-948d-41597a1a5e4d/0.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",45
+https://tgn.bozztv.com/gin-36bay4/ga-al-nahar/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTU6MDIgQU0maGFzaF92YWx1ZT1TSWVBRFhZNFJGNEJDVlhGNjc2c09BPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
+#EXTINF:-1 tvg-id="ext" group-title="egypt",46
+Plyr3&drm=0&ff=300&fsm=0&l=0&lng=en&mk=hls&mu=https%3A%2F%2Ftgn.bozztv.com%2Fgin-36bay4%2Fga-al-nahar%2Findex.m3u8%3FwmsAuthSign%3Dc2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTU6MDIgQU0maGFzaF92YWx1ZT1TSWVBRFhZNFJGNEJDVlhGNjc2c09BPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI%3D&pcp=0&pd=2&pdt=2026-03-17T03%3A55%3A04.440Z&plng=en&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=970&sp=0&strt=310&tb=5.7&tt=0&vd=0&vh=576&vs=0&vw=1024&sa=1773719702722
+#EXTINF:-1 tvg-id="ext" group-title="egypt",47
+https://tgn.bozztv.com/gin-36bay4/ga-al-nahardrama/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTU6MDQgQU0maGFzaF92YWx1ZT11SWN3aFdpa2ZzeGs0amR1Z0oxVEZ3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49Mjc=
+#EXTINF:-1 tvg-id="ext" group-title="egypt",48
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",49
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",50
+Plyr3&drm=0&ff=720&fsm=0&l=0&mk=hls&mu=http%3A%2F%2Fmn-nl.mncdn.com%2Fmekameleen%2Fsmil%3Amekameleentv.smil%2Fplaylist.m3u8&pcp=0&pd=2&pdr=&plng=fr&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=2128&sp=0&strt=720&tb=12&tt=0&vd=0&vh=720&vs=5&vw=1280&sa=1773719710453
+#EXTINF:-1 tvg-id="ext" group-title="egypt",51
+https://tgn.bozztv.com/gin-36bay3/ga-tentv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTU6MTIgQU0maGFzaF92YWx1ZT1ZVnRtNEVaQTVOY1pHaUFscXV5c0N3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MTk=
+#EXTINF:-1 tvg-id="ext" group-title="egypt",52
+1jjsutues867595c731_VMAP_0_0&cidx=0&sidx=0&vidIdx=0&omp=Dailymotion%2F1.0&omn=0&imal=1&3pcb=0&rap=1&apo=monetization&pos=1&pdm=regular&pbm=2
+#EXTINF:-1 tvg-id="ext" group-title="egypt",53
+https://cdndirector.dailymotion.com/cdn/live/video/x84nwne.m3u8?sec=DA912dA9XeadDG9xp6TtnCub9z709Be8YV4AIFa7rhZlsrBF4bT3H_fj5qbyGPlRPRkQ7f51RnKA1_BLTwGDmYsQfw27Gdo04DPiozxQ1p0&dmV1st=cd48efc0-24cf-43e8-94db-ea607f4332cd&dmTs=682971
+#EXTINF:-1 tvg-id="ext" group-title="egypt",54
+https://live.eu-north-1a.cf.dmcdn.net/sec2(gtV0gOGI6hcL0MR3OPwH8mq5cpC2h4x162Wud6JKiWZyd6OHNDh4sLSIPC4WDLoqPe2V0fY3BAiwlqiLfZDxmTIVb-yg7fnILeN4Zm7RWAOsBQOJjuzN1lBgy6_O5x3T)/dm/3/x84nwne/s/live-480.m3u8#cell=lcf-eu-north-1a
+#EXTINF:-1 tvg-id="ext" group-title="egypt",55
+https://live.eu-north-1a.cf.dmcdn.net/sec2(gtV0gOGI6hcL0MR3OPwH8mq5cpC2h4x162Wud6JKiWZyd6OHNDh4sLSIPC4WDLoqPe2V0fY3BAiwlqiLfZDxmTIVb-yg7fnILeN4Zm7RWAOsBQOJjuzN1lBgy6_O5x3T)/dm/3/x84nwne/s/live-720.m3u8#cell=lcf-eu-north-1a
+#EXTINF:-1 tvg-id="ext" group-title="egypt",56
+https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",57
+1jjsuu4ji9de8bdf972_VMAP_0_0&cidx=0&sidx=0&vidIdx=0&omp=Dailymotion%2F1.0&omn=0&imal=1&3pcb=0&rap=1&apo=monetization&pos=1&pdm=regular&pbm=2
+#EXTINF:-1 tvg-id="ext" group-title="egypt",58
+https://cdndirector.dailymotion.com/cdn/live/video/x8n6e3a.m3u8?sec=6Ga3FpVBpklwJEs8_wpnJZpZUYu_39cpF22KWOoG3EjRrakyAJR7-zs2HkELdEqQx8iNcsNj1A7DUhiNUL3Q9KWgI_o8JsdBTfpuzslLlv8CQOW-_LP8yQBvNI9Td9Gx&dmTs=682971&dmV1st=cd48efc0-24cf-43e8-94db-ea607f4332cd
+#EXTINF:-1 tvg-id="ext" group-title="egypt",59
+https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index_3.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",60
+https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index_8_0.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",61
+https://live.eu-north-1a.cf.dmcdn.net/sec2(aWQW0N8oRxKPc7Uan2gp477jYqM1zPUOZUk9r1h9bgpRtkzbtu0NLcLTOK7Xccx75zweVZveiEqlZldRpEtd7t25BYfuDYX74HO97lFdhM7LZQ3vijxvF3ACqHPTNbB-)/dm/3/x8n6e3a/s/live-480.m3u8#cell=lcf-eu-north-1a
+#EXTINF:-1 tvg-id="ext" group-title="egypt",62
+https://live.eu-north-1a.cf.dmcdn.net/sec2(aWQW0N8oRxKPc7Uan2gp477jYqM1zPUOZUk9r1h9bgpRtkzbtu0NLcLTOK7Xccx75zweVZveiEqlZldRpEtd7t25BYfuDYX74HO97lFdhM7LZQ3vijxvF3ACqHPTNbB-)/dm/3/x8n6e3a/s/live-720.m3u8#cell=lcf-eu-north-1a
+#EXTINF:-1 tvg-id="ext" group-title="egypt",63
+Plyr3&drm=0&ff=1560&fsm=0&l=0&mk=hls&mu=https%3A%2F%2Fshls-live-ak.akamaized.net%2Fout%2Fv1%2F8e2419c6c7494dbba478be025af490ee%2Findex.m3u8&pcp=0&pd=2&pdr=&plng=fr&pni=0&pr=2&q=0&sp=0&strt=1570&tb=36&tt=0&vd=0&vs=5&sa=1773719722281
+#EXTINF:-1 tvg-id="ext" group-title="egypt",64
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",65
+Plyr3&drm=0&ff=560&fsm=0&l=0&mk=hls&mu=https%3A%2F%2Fshls-live-ak.akamaized.net%2Fout%2Fv1%2F46079e838e65490c8299f902a7731168%2Findex_2.m3u8&pcp=0&pd=2&pdr=&plng=fr&pni=0&pr=2&q=0&sp=0&strt=560&tb=38&tt=0&vd=0&vs=0&sa=1773719731212
+#EXTINF:-1 tvg-id="ext" group-title="egypt",66
+https://edge66.magictvbox.com/liveApple/nile_cinema/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",67
+http://93.184.10.248/NileCinema/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",68
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",69
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/3a7f037e-a188-4dbc-b328-24e757e4dda9/2.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",70
+https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index_2.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",71
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",72
+https://tgn.bozztv.com/gin-36bay4/ga-on--e-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTU6NTkgQU0maGFzaF92YWx1ZT1TZWJuTkgwTmZZblBPQk1yYmxpOW5nPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
+#EXTINF:-1 tvg-id="ext" group-title="egypt",73
+Plyr3&drm=0&ff=810&fsm=0&l=0&lng=en&mk=hls&mu=https%3A%2F%2Ftgn.bozztv.com%2Fgin-36bay4%2Fga-on--e-tv%2Findex.m3u8%3FwmsAuthSign%3Dc2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTU6NTkgQU0maGFzaF92YWx1ZT1TZWJuTkgwTmZZblBPQk1yYmxpOW5nPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI%3D&pcp=0&pd=2&pdt=2026-03-17T03%3A55%3A28.038Z&plng=en&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=990&sp=0&strt=820&tb=7.2&tt=0&vd=0&vh=576&vs=0&vw=1024&sa=1773719760354
+#EXTINF:-1 tvg-id="ext" group-title="egypt",74
+https://bcovlive-a.akamaihd.net/a9fdb8333b07403486e52795e6daf257/eu-central-1/6416013238001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",75
+https://tgn.bozztv.com/gin-36bay4/ga-dmctv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI2IDM6NTY6MTAgQU0maGFzaF92YWx1ZT1sZ3NobDl1d013RjB4cEZicXBuYmFRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MTk=
+#EXTINF:-1 tvg-id="ext" group-title="egypt",76
+https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",77
+https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index_22.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",78
+https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index_27_0.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",79
+Plyr3&drm=0&ff=1140&fsm=0&l=0&mk=hls&mu=https%3A%2F%2Fshls-live-enc.edgenextcdn.net%2Fout%2Fv1%2F0ef83323c0374a1187c182645db2a45f%2Findex.m3u8&pcp=0&pd=2&pdr=&plng=fr&pni=0&pr=2&q=0&sp=0&strt=1140&tb=36&tt=0&vd=0&vs=5&sa=1773719776384
+#EXTINF:-1 tvg-id="ext" group-title="egypt",80
+https://rhine.webchnl.live/memfs/52b4200e-6ea9-4119-be31-0e73fa9c7d64.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",81
+https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",82
+81861492
+#EXTINF:-1 tvg-id="ext" group-title="egypt",83
+Plyr3&drm=0&ff=1830&fsm=0&l=0&mk=hls&mu=https%3A%2F%2Frp.tactivemedia.com%2Fwatantv_source%2Flive%2Fplaylist.m3u8&pcp=0&pd=2&pdr=&plng=fr&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=3459&sp=0&strt=1830&tb=6&tt=0&vd=0&vh=1080&vs=0&vw=1920&sa=1773719786553
+#EXTINF:-1 tvg-id="ext" group-title="egypt",84
+https://9090video.mobtada.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",85
+https://9090video.mobtada.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",86
+Plyr3&drm=0&ff=1330&fsm=0&l=0&mk=hls&mu=https%3A%2F%2F9090video.mobtada.com%2Fhls%2Fstream.m3u8&pcp=0&pd=2&pdr=&pdt=2026-03-17T05%3A56%3A01.000%2B0200&plng=fr&pni=0&pr=2&q=0&sp=0&strt=1340&tb=6&tt=0&vd=0&vs=0&sa=1773719789262
+#EXTINF:-1 tvg-id="ext" group-title="egypt",87
+https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",88
+Plyr3&drm=0&ff=850&fsm=0&l=0&mk=hls&mu=https%3A%2F%2Fnogoumtv.nrpstream.com%2Fhls%2F0%2Fstream.m3u8&pcp=0&pd=2&pdr=&pdt=2026-03-17T04%3A56%3A04.000%2B0100&plng=fr&pni=0&pr=2&q=0&sp=0&strt=860&tb=6&tt=0&vd=0&vs=0&sa=1773719790800
+#EXTINF:-1 tvg-id="ext" group-title="egypt",89
+1jjsv0ab10537096e7b_VMAP_0_0&cidx=0&sidx=0&vidIdx=0&omp=Dailymotion%2F1.0&omn=0&imal=1&3pcb=0&rap=1&apo=monetization&pos=1&pdm=regular&pbm=2
+#EXTINF:-1 tvg-id="ext" group-title="egypt",90
+https://cdndirector.dailymotion.com/cdn/live/video/x8n6e4h.m3u8?sec=GGag4U77f6t3fk_Foqw6IzKjJCkZyPuBr5nqoftiVORJa02roaUMQ4h6t1HwqK1US5ZuDgt80tvzriMXJ2e-S9GTBwQRWdOIH_o8oUNtNZl3uUPI_Vt3yzMKHgd2Zh-a&dmTs=682971&dmV1st=cd48efc0-24cf-43e8-94db-ea607f4332cd
+#EXTINF:-1 tvg-id="ext" group-title="egypt",91
+https://live.eu-north-1b.cf.dmcdn.net/sec2(dq_oWIl5We6Tx1KtwtecxsKMMvf1lF8BILV3jF9N5nIzupcpk2BYW_hXUD2zfie6gpo7MSGx4v2GOxI2enbRaJ6VkUE32Bt2lhPZTdoNcModo8kTl1XX0sZcHi9d3yr0)/dm/3/x8n6e4h/s/live-480.m3u8#cell=lcf-eu-north-1b
+#EXTINF:-1 tvg-id="ext" group-title="egypt",92
+https://live.eu-north-1b.cf.dmcdn.net/sec2(dq_oWIl5We6Tx1KtwtecxsKMMvf1lF8BILV3jF9N5nIzupcpk2BYW_hXUD2zfie6gpo7MSGx4v2GOxI2enbRaJ6VkUE32Bt2lhPZTdoNcModo8kTl1XX0sZcHi9d3yr0)/dm/3/x8n6e4h/s/live-720.m3u8#cell=lcf-eu-north-1b
+#EXTINF:-1 tvg-id="ext" group-title="egypt",93
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",94
+https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",95
+https://ml-pull-hwc.myco.io/MixBelAraby/hls/MixBelAraby_H264-480p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
+#EXTINF:-1 tvg-id="ext" group-title="egypt",96
+https://ml-pull-hwc.myco.io/MixBelAraby/hls/MixBelAraby_H264-480p-443429944.ts?pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1&pkg_media=video
+#EXTINF:-1 tvg-id="ext" group-title="egypt",97
+1jjsv0i920c9584af12_VMAP_0_0&cidx=0&sidx=0&vidIdx=0&omp=Dailymotion%2F1.0&omn=0&imal=1&3pcb=0&rap=1&apo=monetization&pos=1&pdm=regular&pbm=2
+#EXTINF:-1 tvg-id="ext" group-title="egypt",98
+https://cdndirector.dailymotion.com/cdn/live/video/x84wyku.m3u8?sec=EtDflup8dXWniijB6P8Fb-kzlnOLepn4z7xqmtx5Buj769KjJNFBRlfrMMRajtvRKG7Cd9pCQaJz6vYLpG75a-k3UUx7odAJH3IFw0Zkzm7CC5jRQGAXXY5Pk7Wp9AMw&dmTs=682971&dmV1st=cd48efc0-24cf-43e8-94db-ea607f4332cd
+#EXTINF:-1 tvg-id="ext" group-title="egypt",99
+https://live.eu-north-1a.cf.dmcdn.net/sec2(qNOYhIjAjATyxS6hRxrUBQPVYvGUN_-CJztJ_9QXwXj6ghRGUYHFRs9N9nHxt7rciJviRtZrPiuiswpZWJPE6N5gdfpkm12pVMSfqoHRQfqSDS0MOFbIPd0Q_9mJzGn_)/dm/3/x84wyku/s/live-480.m3u8#cell=lcf-eu-north-1a
+#EXTINF:-1 tvg-id="ext" group-title="egypt",100
+https://live.eu-north-1a.cf.dmcdn.net/sec2(qNOYhIjAjATyxS6hRxrUBQPVYvGUN_-CJztJ_9QXwXj6ghRGUYHFRs9N9nHxt7rciJviRtZrPiuiswpZWJPE6N5gdfpkm12pVMSfqoHRQfqSDS0MOFbIPd0Q_9mJzGn_)/dm/3/x84wyku/s/live-720.m3u8#cell=lcf-eu-north-1a
+#EXTINF:-1 tvg-id="ext" group-title="egypt",101
+http://82.212.74.98:8000/live/7821.m3u8.tara
+#EXTINF:-1 tvg-id="ext" group-title="egypt",102
+https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",103
+https://ml-pull-hwc.myco.io/MixONE/hls/MixONE_H264-480p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
+#EXTINF:-1 tvg-id="ext" group-title="egypt",104
+https://ml-pull-hwc.myco.io/MixONE/hls/MixONE_H264-480p-443429949.ts?pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1&pkg_media=video
+#EXTINF:-1 tvg-id="ext" group-title="egypt",105
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",106
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_4.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",107
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_8_0.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",108
+Plyr3&drm=0&ff=1020&fsm=0&l=0&mk=hls&mu=https%3A%2F%2Fshls-live-enc.edgenextcdn.net%2Fout%2Fv1%2Ff6d718e841f8442f8374de47f18c93a7%2Findex.m3u8&pcp=0&pd=2&pdr=&plng=fr&pni=0&pr=2&q=0&sp=0&strt=1020&tb=36&tt=0&vd=0&vs=5&sa=1773719824491
+#EXTINF:-1 tvg-id="ext" group-title="egypt",109
+https://1a-1791.com/live/gi29le7p/live-hls/pu6s-yyi7/chunklist_480p_i1_DVR.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",110
+https://games2.elahmad.xyz/tv789_www.elahmad.com_elnastv/index.m3u8?token=af76cf64d60196d3aefb119a12e45fb618746147-98be3d343ca7e1c02a41ef0cf6de1b83-1773721569-1773719769
+#EXTINF:-1 tvg-id="ext" group-title="egypt",111
+https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",112
+https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index_4.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",113
+https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index_9_0.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="egypt",114
+Plyr3&drm=0&ff=1260&fsm=0&l=0&mk=hls&mu=https%3A%2F%2Fshls-live-enc.edgenextcdn.net%2Fout%2Fv1%2Fa4a39d8e92e34b0780ca602270a59512%2Findex.m3u8&pcp=0&pd=2&pdr=&plng=fr&pni=0&pr=2&q=0&sp=0&strt=1260&tb=36&tt=0&vd=0&vs=5&sa=1773719835268

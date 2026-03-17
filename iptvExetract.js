@@ -16,7 +16,8 @@ import fs from "node:fs";
       link.push(url);
     }
   });
-  await page.goto("https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202", {
+  
+  await page.goto("http://azrogo.com//iphone/arabic/ch5/Elmehwar.php", {
     waitUntil: "networkidle2",
     timeout: 60000,
   });

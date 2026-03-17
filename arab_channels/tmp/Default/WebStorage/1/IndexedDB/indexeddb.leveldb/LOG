@@ -1,30 +1,14 @@
-2026/03/11-17:57:20.509 39ac Reusing MANIFEST D:\projects\iptv_channels\arab_channels\tmp\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/MANIFEST-000001
-2026/03/11-17:57:20.545 39ac Recovering log #3
-2026/03/11-17:57:20.561 39ac Reusing old log D:\projects\iptv_channels\arab_channels\tmp\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/000003.log 
-2026/03/11-17:57:20.970 3854 Level-0 table #5: started
-2026/03/11-17:57:21.050 3854 Level-0 table #5: 18452 bytes OK
-2026/03/11-17:57:21.076 3854 Delete type=0 #3
-2026/03/11-17:57:21.096 2cc4 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/03/11-17:57:21.142 3854 Level-0 table #7: started
-2026/03/11-17:57:21.255 3854 Level-0 table #7: 5550 bytes OK
-2026/03/11-17:57:21.265 3854 Delete type=0 #4
-2026/03/11-17:57:21.278 2cc4 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/03/11-17:57:21.278 2cc4 Manual compaction at level-1 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xf0bx\xee\xcdyB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 501 : 1
-2026/03/11-17:57:21.278 2cc4 Compacting 1@1 + 1@2 files
-2026/03/11-17:57:21.412 2cc4 Generated table #8@1: 89 keys, 11356 bytes
-2026/03/11-17:57:21.412 2cc4 Compacted 1@1 + 1@2 files => 11356 bytes
-2026/03/11-17:57:21.418 2cc4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/03/11-17:57:21.418 2cc4 Delete type=2 #7
-2026/03/11-17:57:21.436 2cc4 Manual compaction at level-1 from '\x00\x06\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xf0bx\xee\xcdyB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 501 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/03/11-17:57:21.469 2cc4 Level-0 table #10: started
-2026/03/11-17:57:21.518 2cc4 Level-0 table #10: 520 bytes OK
-2026/03/11-17:57:21.527 2cc4 Delete type=2 #5
-2026/03/11-17:57:21.527 2cc4 Delete type=0 #6
-2026/03/11-17:57:21.560 2cc4 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/03/11-17:57:21.560 2cc4 Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 534 : 0
-2026/03/11-17:57:21.561 2cc4 Compacting 1@1 + 1@2 files
-2026/03/11-17:57:21.609 2cc4 Generated table #11@1: 64 keys, 1444 bytes
-2026/03/11-17:57:21.609 2cc4 Compacted 1@1 + 1@2 files => 1444 bytes
-2026/03/11-17:57:21.617 2cc4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/03/11-17:57:21.617 2cc4 Delete type=2 #10
-2026/03/11-17:57:21.641 2cc4 Manual compaction at level-1 from '\x00\x06\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 534 : 0 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/16-21:32:06.590 18cc Reusing MANIFEST D:\projects\iptv_channels\arab_channels\tmp\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2026/03/16-21:32:06.591 18cc Recovering log #37
+2026/03/16-21:32:06.646 18cc Reusing old log D:\projects\iptv_channels\arab_channels\tmp\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/000037.log 
+2026/03/16-21:32:08.029 26c8 Level-0 table #42: started
+2026/03/16-21:32:08.184 26c8 Level-0 table #42: 20291 bytes OK
+2026/03/16-21:32:08.275 26c8 Delete type=0 #37
+2026/03/16-21:32:08.321 1734 Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/16-21:32:08.321 1734 Manual compaction at level-1 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 4096 : 1
+2026/03/16-21:32:08.321 1734 Compacting 1@1 + 1@2 files
+2026/03/16-21:32:08.399 1734 Generated table #43@1: 59 keys, 1358 bytes
+2026/03/16-21:32:08.399 1734 Compacted 1@1 + 1@2 files => 1358 bytes
+2026/03/16-21:32:08.438 1734 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/16-21:32:08.471 1734 Delete type=2 #42
+2026/03/16-21:32:08.491 1734 Manual compaction at level-1 from '\x00\x0e\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 4096 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
