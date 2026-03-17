@@ -44,7 +44,7 @@ function showsJson(path, list) {
     if (url.includes(".m3u8") && !url.includes("/mono")) {
       console.log("Found m3u8:", url);
       url = url.replace(/(.*)(?<=id=)/gm, "");
-      // if(channel.includes("/^Plyr/")){channel.replace(/(^<=)(.*)(http)/, "")}
+      if(url.includes("/^Plyr/")){url.replace(/(^<=)(.*)(http)/, "")}
       links.add(url);
     }
   });
